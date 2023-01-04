@@ -1,2 +1,2 @@
 # RockPaperScissors
-This is a JavaScript webapp rock, paper and scissors game.
+This is a JavaScript WebApp for the rock, paper and scissors game.
